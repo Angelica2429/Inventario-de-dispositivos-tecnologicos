@@ -15,6 +15,8 @@ elif num1 %3 and num1%5 ==0:
     print(f"{num1} es multiplo del 3 y del 5")
 elif num1 %2 and num1%5 ==0:
     print(f"{num1} es multiplo del 2 y del 5")
+else:
+    print("No es posible realizar la verificación")
     
 print("Ejercicio # 27")
 print("Clasificador de edades con bono")
